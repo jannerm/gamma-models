@@ -6,7 +6,7 @@ Code release for [Gamma-Models: Generative Temporal Difference Learning for Infi
 
 For the quickest startup, we recommend running the notebook directly in your browser using Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jannerm/gamma/blob/master/scripts/gamma-pendulum.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jannerm/gamma-models/blob/master/scripts/gamma-pendulum.ipynb)
 
 This notebook will generate a video of gamma-model predictions that looks like the following:
 
