@@ -1,0 +1,11 @@
+git+https://github.com/jannerm/rlkit.git@5d355ba04145c75f59fcd53823784b5e3329f365
+gtimer==1.0.0b5
+gym==0.17.3
+imageio==2.9.0
+ipykernel==5.3.3
+ipython==7.16.1
+matplotlib==3.2.2
+numpy==1.18.5
+sk-video==1.1.10
+torch==1.7.0+cu101
+torchvision==0.8.1+cu101
