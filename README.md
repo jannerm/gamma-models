@@ -8,7 +8,7 @@ For the quickest startup, we recommend running the notebook directly in your bro
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jannerm/gamma-models/blob/master/scripts/gamma-pendulum.ipynb)
 
-This notebook will generate a video of gamma-model predictions that looks like the following:
+This notebook will generate a video that looks like the following:
 
 <p align="center">
 	<img src="https://people.eecs.berkeley.edu/~janner/gamma-models/blog/gamma-colab.gif" width="80%">
