@@ -1,10 +1,10 @@
 # Gamma-Models
 
-Code release for [Gamma-Models: Generative Temporal Difference Learning for Infinite-Horizon Prediction](https://arxiv.org/abs/2010.14496).
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jannerm/gamma-models/blob/master/scripts/gamma-pendulum.ipynb) Code release for [Gamma-Models: Generative Temporal Difference Learning for Infinite-Horizon Prediction](https://arxiv.org/abs/2010.14496).
 
 ## Run from your browser
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jannerm/gamma-models/blob/master/scripts/gamma-pendulum.ipynb) For the quickest startup, we recommend running the notebook directly in your browser using Google Colab.
+For the quickest startup, we recommend running the notebook directly in your browser using Google Colab.
 
 This notebook will generate a video that looks like the following:
 
