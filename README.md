@@ -11,7 +11,7 @@ For the quickest startup, we recommend running the notebook directly in your bro
 This notebook will generate a video that looks like the following:
 
 <p align="center">
-	<img src="https://people.eecs.berkeley.edu/~janner/gamma-models/blog/gamma-colab.gif" width="80%">
+	<img src="https://people.eecs.berkeley.edu/~janner/gamma-models/blog/figures/gamma-colab.gif" width="80%">
 </p>
 
 You can also use the trained model to perform value estimation, as shown in Figure 4 of the paper.
