@@ -14,7 +14,11 @@ This notebook will generate a video that looks like the following:
 	<img src="https://people.eecs.berkeley.edu/~janner/gamma-models/blog/figures/gamma-colab.gif" width="80%">
 </p>
 
-You can also use the trained model to perform value estimation, as shown in Figure 4 of the paper.
+The last cell in the notebook shows how the trained model can be used for value estimation:
+```
+visualize_values(prob_fn, n_steps=20)
+```
+as shown in Figure 4 of the paper. Increasing `n_steps` will improve the resolution of the value map but make the visualization take longer to generate.
 
 ## Run locally
 1. Clone `gamma-models`
