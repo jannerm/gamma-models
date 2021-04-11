@@ -8,3 +8,4 @@ numpy==1.18.5
 sk-video==1.1.10
 torch==1.7.0+cu101
 torchvision==0.8.1+cu101
+jupyterlab
