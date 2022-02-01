@@ -51,4 +51,4 @@ Open `gamma-pendulum-local.ipynb`, which matches the Colab notebook except for a
 ```
 
 ## Acknowledgments
-The underlying neural spline flow implementation is based on Andrej Karpathy's [python-normalizing-flows](https://github.com/karpathy/pytorch-normalizing-flows) repo, which in turn is based on Conor Durkan and Iain Murray's and [nsf](https://github.com/bayesiains/nsf) codebase.
+The underlying neural spline flow implementation is based on Andrej Karpathy's [pytorch-normalizing-flows](https://github.com/karpathy/pytorch-normalizing-flows) repo, which in turn is based on Conor Durkan and Iain Murray's and [nsf](https://github.com/bayesiains/nsf) codebase.
